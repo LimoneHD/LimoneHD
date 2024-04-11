@@ -1,5 +1,5 @@
 # 💫 About Me:
-Malte's GitHub README<br>Hello there! 👋 Welcome to my GitHub profile. My name is Malte, I'm 22 years old and I'm currently undergoing medical rehabilitation at BFW in Hamburg.<br>I'm passionate about a few things which include playing video games, coding in my free time, and exploring new technologies.
+<br>Hello there! 👋 Welcome to my GitHub profile. My name is Malte, I'm 22 years old and I'm currently undergoing medical rehabilitation at BFW in Hamburg.<br>I'm passionate about a few things which include playing video games, coding in my free time, and exploring new technologies.
 
 
 ## 🌐 Socials:
